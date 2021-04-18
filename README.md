@@ -7,7 +7,7 @@ Try our simple [balenaCloud](https://www.balena.io/cloud) starter project to set
 - [Using WiFi Connect](#using-wifi-connect)
 - [Controlling content](#controlling-content)
 - [Automate backlight switching](#automate-backlight-switching)
-- [Photo slideshow feature](#photo-slideshow-feature)
+- [Photo slideshow feature (Deprecated)](#photo-slideshow-feature)
 
 ## Introduction
 
